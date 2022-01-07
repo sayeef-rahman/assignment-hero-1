@@ -39,9 +39,9 @@ h1.solid{
 }                
 .head_image{
     width: 73%;
-    height: 88%;
+    height: 75%;
     align-content: center;
-    margin-top: 20px;
+    margin-top: 70px;
     margin-left: 70px;
     
 }
@@ -63,15 +63,17 @@ h1.solid{
 
 .my_mission_content{
     background-color: white;
-    margin-left: 100px;
     display: flex;
+    margin-left: 100px;
     margin-right: 100px;
+    align-content: center;
 }
 
 .my_mission_content img{
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
     margin-left: 10px;
+    margin-top: 10px;
 }
 
 .my_mission_content h3{
@@ -83,28 +85,34 @@ h1.solid{
 }
 
 .my_mission_content_1{
-    background-color: tomato;
-    width: 300px;
-    height: 300px;
+    background-color: #EBF5FB ;
+    width: 350px;
+    height: 350px;
     border-radius: 15px;
 }
 
 .my_mission_content_2{
-    background-color: tomato;
-    width: 300px;
-    height: 300px;
+    background-color: #FFE6FA;
+    width: 350px;
+    height: 350px;
     border-radius: 15px;
-    margin-left: 120px;
+    margin-left: 43px;
 }
 
 .my_mission_content_3{
-    background-color: tomato;
-    width: 300px;
-    height: 300px;
+    background-color: #FFE0C5;
+    width: 350px;
+    height: 350px;
     border-radius: 15px;
-    margin-left: 120px;
+    margin-left: 43px;
 }
 
+.discover_content{
+    background-color: whitesmoke;
+    margin-top: 80px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
 
 .footer{
     background-color: black;
@@ -116,3 +124,4 @@ h1.solid{
     width: 50%;
     background-color: coral;
 }
+

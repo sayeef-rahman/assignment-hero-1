@@ -1,0 +1,45 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.header_section{
+    display: flex;
+}
+.head_left_div{
+    background-color: white;
+    width: 50%;
+    align-content: left;
+    margin-left: 100px;
+}
+.head_right_div{
+    background-color: white;
+    width: 50%;
+}
+h1{
+    font-size: 50px;
+}
+h1.solid{
+        border-style: solid;
+        border-top: white;
+        border-bottom: white;
+        border-right: white;
+        width: 500px;
+        margin-top: 150px;
+        margin-right: 15px;
+        
+}
+
+.head_note{
+
+    width: 500px;
+}               
+.head_para{
+    width: 500px;
+}                
+.head_image{
+    width: 73%;
+    height: 88%;
+    margin-top: 60px;
+    margin-left: 50px;
+    
+}
+

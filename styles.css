@@ -7,7 +7,7 @@ body{
 .head_left_div{
     background-color: white;
     width: 50%;
-    align-content: left;
+    align-content: center;
     margin-left: 100px;
 }
 .head_right_div{
@@ -42,4 +42,12 @@ h1.solid{
     margin-left: 50px;
     
 }
-
+.head_button{
+    background-color: tomato;
+    width: 25%;
+    height: 10%;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+    border-color: white;
+}

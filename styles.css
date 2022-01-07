@@ -40,17 +40,18 @@ h1.solid{
 .head_image{
     width: 73%;
     height: 88%;
-    margin-top: 60px;
-    margin-left: 50px;
+    align-content: center;
+    margin-top: 20px;
+    margin-left: 70px;
     
 }
 .head_button{
-    background-color: tomato;
-    width: 25%;
-    height: 10%;
-    border-radius: 10px;
-    font-size: 20px;
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
     color: white;
+    font-weight: 700;
     border-color: white;
 }
 
@@ -60,8 +61,49 @@ h1.solid{
     text-align: center;
 }
 
+.my_mission_content{
+    background-color: white;
+    margin-left: 100px;
+    display: flex;
+    margin-right: 100px;
+}
 
+.my_mission_content img{
+    height: 100px;
+    width: 100px;
+    margin-left: 10px;
+}
 
+.my_mission_content h3{
+    margin-left: 15px;
+}
+
+.my_mission_content p{
+    margin-left: 15px;
+}
+
+.my_mission_content_1{
+    background-color: tomato;
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+}
+
+.my_mission_content_2{
+    background-color: tomato;
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    margin-left: 120px;
+}
+
+.my_mission_content_3{
+    background-color: tomato;
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    margin-left: 120px;
+}
 
 
 .footer{

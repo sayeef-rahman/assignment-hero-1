@@ -5,10 +5,12 @@ body{
     display: flex;
 }
 .head_left_div{
+    margin-top: 0px;
     background-color: white;
     width: 50%;
     align-content: center;
     margin-left: 100px;
+    margin-bottom: 80px;
 }
 .head_right_div{
     background-color: white;
@@ -50,4 +52,25 @@ h1.solid{
     font-size: 20px;
     color: white;
     border-color: white;
+}
+
+.my_mission_txt{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
+
+
+
+
+
+.footer{
+    background-color: black;
+    height: 300px;
+    width: 100%;
+}
+.footer_left_div{
+    height: 90%;
+    width: 50%;
+    background-color: coral;
 }
